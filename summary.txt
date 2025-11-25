@@ -1,0 +1,10 @@
+Inventory Turnover — 2024 Quarterly Summary
+-------------------------------------------
+Quarters: Q1 2024, Q2 2024, Q3 2024, Q4 2024
+Values: -1.35, 2.95, 4.59, 10.96
+Average (4 quarter mean, rounded to 2 dp): 4.29
+Industry target: 8.00
+Observations:
+ - Large negative turnover in Q1 (-1.35) likely indicates returns, accounting adjustments, or write-offs.
+ - Progressive recovery Q2/Q3, with a large spike in Q4 (10.96) pushing the annual average above 4.
+ - Average turnover (4.29) remains below industry target (8.0), implying excess inventory / suboptimal turnover.
