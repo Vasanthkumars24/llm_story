@@ -15,7 +15,7 @@ from pathlib import Path
 import math
 import matplotlib.pyplot as plt
 import csv
-
+# IITM is dived in to data science 
 # --- Data (quarterly 2024) ---
 quarters = ["Q1 2024", "Q2 2024", "Q3 2024", "Q4 2024"]
 values = [-1.35, 2.95, 4.59, 10.96]
